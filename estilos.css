@@ -1,0 +1,169 @@
+.f1
+{
+	width:100%;
+	height:100%;
+}
+.f2
+{
+
+	background-color:lightblue;
+	font-family:calibri;
+	position:absolute;
+	top:140px;
+	left:3%;
+    width:15%;
+	height:15%;
+	border-radius:10px;
+}
+
+.f3
+{
+
+	background-color:lightyellow;
+	font-family:calibri;
+	position:absolute;
+	top:10px;
+	left:34%;
+    width:42%;
+	height:13%;
+	border-radius:10px;
+}
+.f4
+{
+
+	background-color:lightblue;
+	font-family:calibri;
+	position:absolute;
+	top:285px;
+	left:3%;
+    width:15%;
+	height:16%;
+	border-radius:10px;
+}
+.f5
+{
+
+	background-color:lightblue;
+	font-family:calibri;
+	position:absolute;
+	top:140px;
+	left:77%;
+    width:15%;
+	height:20%;
+	border-radius:10px;
+}
+.f6
+{
+
+	background-color:lightblue;
+	font-family:calibri;
+	position:absolute;
+	top:310px;
+	left:77%;
+    width:15%;
+	height:13%;
+	border-radius:10px;
+}
+.C2
+{
+
+	background-color:blue;
+	font-family:calibri;
+	position:absolute;
+	top:200px;
+	left:9%;
+    width:3%;
+	height:5%;
+	border-radius:10px;
+}
+.C2:hover
+{
+
+	background-color:orange;
+	background-image: url("origen.jpg"); 
+	font-family:calibri;
+	position:absolute;
+	top:150px;
+	left:23%;
+    width:54%;
+	height:56%;
+	border-radius:10px;
+}
+.C4
+{
+
+	background-color:blue;
+	font-family:calibri;
+	position:absolute;
+	top:348px;
+	left:9%;
+    width:3%;
+	height:5%;
+	border-radius:10px;
+}
+.C4:hover
+{
+
+	background-color:orange;
+	background-image: url("consiste.jpg"); 
+	font-family:calibri;
+	position:absolute;
+	top:180px;
+	left:20%;
+    width:54%;
+	height:56%;
+	border-radius:10px;
+}
+.C5
+{
+
+	background-color:blue;
+	font-family:calibri;
+	position:absolute;
+	top:220px;
+	left:83%;
+    width:3%;
+	height:6%;
+	border-radius:10px;
+}
+.C5:hover
+{
+
+	background-color:orange;
+	background-image: url("campeones.jpg"); 
+	font-family:calibri;
+	position:absolute;
+	top:160px;
+	left:28%;
+    width:47%;
+	height:66%;
+	border-radius:10px;
+}
+.C6
+{
+
+	background-color:blue;
+	font-family:calibri;
+	position:absolute;
+	top:355px;
+	left:83%;
+    width:3%;
+	height:6%;
+	border-radius:10px;
+}
+.C6:hover
+{
+
+	background-color:orange;
+	background-image: url("torneo.jpg"); 
+	font-family:calibri;
+	position:absolute;
+	top:130px;
+	left:23%;
+    width:50%;
+	height:80%;
+	border-radius:10px;
+}
+
+
+
